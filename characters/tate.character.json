@@ -3,7 +3,11 @@
     "clients": [],
     "modelProvider": "anthropic",
     "settings": {
-        "secrets": {},
+        "secrets": {
+            "TWITTER_USERNAME": "TEST174175",
+            "TWITTER_PASSWORD": "888888888888",
+            "TWITTER_EMAIL": "dadmaster888@gmail.com"
+        },
         "voice": {
             "model": "en_US-male-medium"
         }
